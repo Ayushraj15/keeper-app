@@ -40,10 +40,3 @@ npm install
 npm start
 
 
-👨‍💻 Author
-
-Ayush Raj
-
-LinkedIn
-
-GitHub
