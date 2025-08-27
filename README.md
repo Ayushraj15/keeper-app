@@ -1,4 +1,4 @@
-# KeeperApp
+# Keeper-app
 
 A web application designed to help users manage and track their personal tasks and activities efficiently.
 
@@ -6,7 +6,7 @@ A web application designed to help users manage and track their personal tasks a
 
 ## 📌 Overview
 
-**KeeperApp** is a user-friendly platform that allows individuals to:
+**Keeper-app** is a user-friendly platform that allows individuals to:
 
 - **Add Tasks**: Create new tasks with titles and descriptions.
 - **Edit Tasks**: Update task details as needed.
